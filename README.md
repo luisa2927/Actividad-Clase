@@ -34,3 +34,4 @@ A continuacion estaremos desarrollando el paso a paso para conectar mi repositor
 git hash -- esto es un comentario de actualizacion.
 verificacin
 Comentrario de verificacion 
+nuevos cambios
