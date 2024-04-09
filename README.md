@@ -31,3 +31,5 @@ A continuacion estaremos desarrollando el paso a paso para conectar mi repositor
 
 * escribir los comandos para inicializar nuestro repositorio local y conectarlo col el remoto
 
+git hash -- esto es un comentario de actualizacion.
+

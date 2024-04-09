@@ -62,7 +62,7 @@ const celular = {
     }
 
     // El metodo -> las aciones que puedo ejecutar
-
+   
     
 } 
 {
